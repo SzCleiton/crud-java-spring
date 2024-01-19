@@ -57,6 +57,11 @@ Enter the email and password configured in [Docker file](./docker-compose.yml).
 To install Docker locally you can [click here](https://www.docker.com/products/docker-desktop/).
 
 
+
+
+
+
+
 ## Translated:
 
 # CRUD simples
